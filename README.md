@@ -20,7 +20,7 @@ A WordPress plugin that helps you automatically extract long-tail SEO keywords f
 - ✅ Rank Math SEO
 - ✅ Yoast SEO
 
-**Developed by: Mona Jalal** ❤️
+**Developed by: Mona Galal** ❤️
 
 **Features:**
 
